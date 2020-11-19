@@ -1,5 +1,5 @@
 """
-Simple code created whilst playing around with basic file operations in the Sololearn playground.
+Simple code created whilst playing around with basic file operations.
 
 """
 
